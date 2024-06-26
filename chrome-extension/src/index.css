@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* set background color of thhe page to 272727 and set the size of the popup */
+body {
+  background-color: #272727;
+  width: 400px;
+  height: 600px;
+  padding: 40px 40px;
+}
+
+h1 {
+  color: #fff;
+  font-family: Futura;
+}
+
+p {
+  color: #fff;
+  font-family: Futura;
+}
